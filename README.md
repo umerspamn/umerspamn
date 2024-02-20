@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @umerspamn
-- 👀 I’m interested in crafting interactive websites using AI and diffrent languages.i don't consider myself as an app or web developer rather i am an app ot web craftsman
-- 🌱 I’m currently learning crafting the best interactive, responisive websites and apps that can give a boom to your buisness
-- 💞️ I’m looking to collaborate wth people  who not only develop websites or app but are craftsmen of apps and websites
-- 📫 How to reach me // email:umerspamn@gmail.com // phone:03199246156 // instagram: umerspamn //  
+👋 Hi, I’m @umerspamn! I'm passionate about crafting interactive websites using AI and various programming languages. While I don't consider myself a professional app or web developer, I've developed numerous interactive websites that showcase my creativity and technical skills.                                                            
+  
+  
+  
 
-<!---
-umerspamn/umerspamn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently, I'm on a journey of continuous learning, focusing on data analysis, visualization, machine learning, deep learning, and AR technology. I enjoy exploring these fields through hands-on projects involving photos, videos, text data, and immersive experiences.
+
+💡 I’m eager to collaborate with innovative individuals who share my enthusiasm for pushing the boundaries of technology and exploring new ideas. If you're passionate about innovation and cutting-edge technologies, let's connect! Feel free to DM me on my LinkedIn or Instagram.
+
+📫 You can reach me via email at umerspamn@gmail.com, or connect with me on LinkedIn (https://www.linkedin.com/in/umer-farooq-768894287/) or Instagram (@umerspamn). Let's exchange ideas and embark on exciting projects together!
